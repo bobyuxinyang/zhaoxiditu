@@ -1,7 +1,20 @@
 # 朝夕地图(zhaoxiditu)——湖北疫区生活指南
 
-现在是2020年春天，如果你不幸生活在中国湖北疫区，希望这个项目能够帮到你。
+现在是2020年春天，武汉肺炎肆虐，如果你不幸生活在中国湖北疫区，希望这个项目能够帮到你。
+
+希望大家**只争朝夕，不负韶华**，早日接触病毒警报，回归美好生活。
 
 ----
 
-* [朝夕地图WIKI](https://github.com/bobyuxinyang/zhaoxiditu/wiki)
+* [🚇朝夕地图_wiki](https://github.com/bobyuxinyang/zhaoxiditu/wiki) 
+
+网上信息越来越乱，朝夕地图_wiki尝试搜集一些有用的官方信息链接，提供一些生活指南信息。
+
+* 朝夕地图(TODO)
+
+zhaoxiditu.com
+地图网站，每个人能够在地图上找到一些可以使用的资源，或者将自己能够提供的资源展示出来，方便大家。
+
+## 联系
+👉欢迎参与，欢迎提PR。
+⛰参与本项目开发请添加微信号：**bob_yuxinyang**，或联系： bob.yuxinyang@gmail.com  
