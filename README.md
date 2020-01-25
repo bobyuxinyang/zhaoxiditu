@@ -25,4 +25,4 @@ zhaoxiditu.com
 🖍微信号：bob_yuxinyang
 📮bob.yuxinyang@gmail.com  
 
-<img src="https://tva3.sinaimg.cn/large/646dd483gy1gb90vtmzhfj20kw0r20v8.jpg" alt="dev" width="752" data-width="752" data-height="974">
+<img src="https://tva3.sinaimg.cn/large/646dd483gy1gb90vtmzhfj20kw0r20v8.jpg" alt="dev" width="240">
